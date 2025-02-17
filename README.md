@@ -4,4 +4,4 @@ This FMCG Sales Report project utilizes Power BI to analyze and visualize sales 
 - Product Performance – Best-selling products and slow-moving inventory
 - Regional Insights – Sales distribution across different locations
 - Customer Behavior Analysis – Purchase patterns and customer segmentation
-- Interactive Dashboard – Filters, drill-downs, and dynamic visualizations
+- Interactive Dashboard – Filters, drill-downs, and dynamic visualizations.
